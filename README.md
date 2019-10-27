@@ -1,1 +1,1 @@
-# Alle Lüsungen der Hausaufgaben von Paul und Marc
+# Alle Lösungen der Hausaufgaben von Paul und Marc
